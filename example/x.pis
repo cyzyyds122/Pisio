@@ -1,0 +1,6 @@
+runs main:
+{
+    println("1223");
+    print("1");
+    print('a');
+}
